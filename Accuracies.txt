@@ -1,5 +1,5 @@
 Winner: NAdam:   Train - 92     Test - 82.05
 	Adam:    Train - 85.84   Test - 78.1
-	SGD:     Train - 64.7   Test - 63.4
+	Adagrad: Train - 64.7   Test - 63.4
 	Adamax:  Train - 82.37  Test - 77.45
-	Adagrad: Train - 73.4   Test - 73.7
+	SGD:     Train - 73.4   Test - 73.7
