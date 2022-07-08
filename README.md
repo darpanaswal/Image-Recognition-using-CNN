@@ -1,6 +1,6 @@
 # Image-Recognition-using-CNN
 
-github link - https://github.com/darpanaswal/Image-Recognition-using-CNN/blob/main/convolutional_neural_network_Nadam.ipynb
+# Main Code File - convolutional_neural_network_Nadam.ipynb
 
 1. NAdam:   Train - 92     Test - 82.05 (Winner)
 2. Adam:    Train - 85.84  Test - 78.1
