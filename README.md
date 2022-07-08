@@ -1,6 +1,6 @@
 # Image-Recognition-using-CNN
 
-# Main Code File - convolutional_neural_network_Nadam.ipynb
+# Main Code File - CNN_Nadam.ipynb
 
 1. NAdam:   Train - 92     Test - 82.05 (Winner)
 2. Adam:    Train - 85.84  Test - 78.1
